@@ -7,6 +7,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.7-orange.svg?style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-v2.8.0-red.svg?style=for-the-badge)
 
+[![Deployed on GCP](https://img.shields.io/badge/Deployed%20on-GCP-blue.svg?style=for-the-badge)](https://vivit-violence-api.ey.r.appspot.com/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/moharamfatema/graduation-project/HEAD)
 
 This repository contains Colab notebooks for the VIVIT spatiotemporal model, which focuses on hierarchical anomaly detection in video scenes. The project includes various stages such as data processing, model implementation in the Keras TensorFlow framework, hyperparameter tuning, cross-testing, and transfer learning.
