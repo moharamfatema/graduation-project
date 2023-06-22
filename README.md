@@ -1,3 +1,10 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![VIVIT](https://img.shields.io/badge/VIVIT-Spatiotemporal-brightgreen.svg)
+
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.7-orange.svg)
+![Keras](https://img.shields.io/badge/Keras-v2.8.0-red.svg)
+
 # VIVIT Spatiotemporal for Hierarchical Anomaly Detection in Video Scenes
 
 This repository contains Colab notebooks for the VIVIT spatiotemporal model, which focuses on hierarchical anomaly detection in video scenes. The project includes various stages such as data processing, model implementation in the Keras TensorFlow framework, hyperparameter tuning, cross-testing, and transfer learning.
