@@ -15,8 +15,8 @@ The VIVIT spatiotemporal model aims to detect anomalies in video scenes by lever
 
 To complement this repository, you can also find the code for the backend and frontend of the project in separate repositories:
 
-- Backend Repository: [Link to Backend Repository](https://github.com/moharamfatema/grad-be)
-- Frontend Repository: [Link to Frontend Repository](https://github.com/moharamfatema/grad-fe)
+- Backend Repository: [grad-be](https://github.com/moharamfatema/grad-be)
+- Frontend Repository: [grad-fe](https://github.com/moharamfatema/grad-fe)
 
 Please refer to these repositories for the backend and frontend code related to the website.
 
